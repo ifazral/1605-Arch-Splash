@@ -7,11 +7,11 @@
             }
         ],
         "Category": "",
-        "Description": "Modernized 1604-Arch-Splash KDE Splash Screen for Plasma 6",
-        "Id": "1604-arch-splash",
+        "Description": "Modernized 1605-Arch-Splash KDE Splash Screen for Plasma 6",
+        "Id": "1605-arch-splash",
         "License": "CCPL:by-sa",
-        "Name": "1604 Arch Splash",
-        "Website": "https://p3tray.github.io"
+        "Name": "1605 Arch Splash",
+        "Website": "https://github.com/ifazral/1605-Arch-Splash"
     },
     "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;Arch;Dark;",
     "X-Plasma-APIVersion": "2"
