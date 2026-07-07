@@ -3,8 +3,6 @@
 
 Changes background to only black and changes loading bar to blue. And made it compatible to KDE Plasma 6.
 
-Former creator was P3tray forked from 1604-Arch-Splash (https://github.com/P3tray/1604-Arch-Splash) project.
-
 ## Fork and Modification Notice
 
 This repository is a fork of the original project **1604-Arch-Splash**, which was originally developed by **P3tray** and is available at https://github.com/P3tray/1604-Arch-Splash.
